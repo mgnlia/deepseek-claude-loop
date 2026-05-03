@@ -1,0 +1,3 @@
+*.env
+.env
+~/.config/deepseek-claude-loop/env
