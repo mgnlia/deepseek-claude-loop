@@ -11,7 +11,7 @@ Run [Claude Code](https://github.com/anthropics/claude-code) backed by **DeepSee
 
 ```bash
 # Clone
-git clone https://github.com/guzus/deepseek-claude-loop.git
+git clone https://github.com/mgnlia/deepseek-claude-loop.git
 cd deepseek-claude-loop
 
 # Install and configure
@@ -70,7 +70,7 @@ CLAUDE_LOOP_MAX_LOOPS=10 ./loop.sh "Add unit tests for uncovered functions"
 ## One-Liner Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/guzus/deepseek-claude-loop/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mgnlia/deepseek-claude-loop/main/setup.sh | bash
 ```
 
 ## License
